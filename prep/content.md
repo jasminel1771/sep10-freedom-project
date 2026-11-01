@@ -26,7 +26,7 @@ Topic: **Violin**
    * Helps researchers understand how different bowing techniques affect the sound of a violin
    * Specialized wireless sensors
    * Hardware: Windows/macOS (computer required)
-   * [Hyperbow IMG](https://github.com/jasminel1771/sep10-freedom-project/blob/main/prep/Hyperbow.png)
+   * [Hyperbow IMG](Hyperbow.png)
     
 
 ##### Hardware
