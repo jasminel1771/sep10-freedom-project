@@ -27,6 +27,15 @@ Topic: **Violin**
    * Specialized wireless sensors
    * Hardware: Windows/macOS (computer required)
    * [Hyperbow IMG](Hyperbow.png)
+  
+ * 3rd website: [Metronaut Sheet Music](https://metronautapp.com/)
+   * Provides interactive digital sheet music
+   * Plays professional musical accompaniments while you practice
+   * Uses AI feedback to listen to your playing
+   * Includes a built-in tuner and metronome
+   * Supports violin and other instruments
+   * Hardware: Smartphone, tablet, or computer
+   * [Metronaut IMG](https://www.selmer.fr/cdn/shop/articles/NL_Metronaut_1_030884fa-90fc-4ce3-84d8-4d6743b18853.png?v=1750864793)
     
 
 ##### Hardware
