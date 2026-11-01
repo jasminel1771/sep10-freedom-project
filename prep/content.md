@@ -9,12 +9,12 @@ Topic: **Violin**
 
 ##### Software
 * Google Search: "Technology used by professional violinists"
-* 1st website looked into: [Practis](https://pract.is/blog/best-violin-practice-apps-2026)
-  * Discusses different applications that violinists and other musicians can use to practice
-  * Includes apps for tuning, keeping rhythm, reading sheet music, recording, and tracking progress
-  * Discover different types of software that can make violin practice easier and more organized
-  * 
-  * [image text](image URL)
+* 1st website looked into: [SmartViolin](https://music.lab.vcu.edu/projects/smartviolin/)
+  * Explores how technology can help violinists improve their playing techniques
+  * Investigates the use of small electronic sensors and cameras to track a violinist's bow movements
+  * The technology can measure bow position, speed, acceleration, and angles
+  * Could help violinists understand their mistakes and improve their technique
+  * [SmartViolin IMG](https://music.lab.vcu.edu/media/music-lab-2022/projects/smartviolin/smartviolon1.png)
 
 ##### Hardware
 * Tech
