@@ -15,7 +15,7 @@ Topic: **Violin**
   * The technology can measure bow position, speed, acceleration, and angles
   * Could help violinists understand their mistakes and improve their technique
   * [SmartViolin IMG](https://music.lab.vcu.edu/media/music-lab-2022/projects/smartviolin/smartviolon1.png)
-  * ---------------------------------------------------------------------------------------
+   ----------------------------------------------------------------------------------------------------------------
   * 2nd Website: [Hyperbow](https://www.media.mit.edu/projects/measurement-of-violin-bowing-technique/overview/)
   * Specially designed violin bow sensor that contains electronic sensors
   * The sensors include accelerometers, gyroscopes, and force sensors
