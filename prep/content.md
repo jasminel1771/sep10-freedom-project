@@ -14,6 +14,8 @@ Topic: **Violin**
   * Investigates the use of small electronic sensors and cameras to track a violinist's bow movements
   * The technology can measure bow position, speed, acceleration, and angles
   * Could help violinists understand their mistakes and improve their technique
+  * Specialized sensors and camera equipment
+  * Hardware: Windows/macOS (computer required)
   * [SmartViolin IMG](https://music.lab.vcu.edu/media/music-lab-2022/projects/smartviolin/smartviolon1.png)
     
  * 2nd Website: [Hyperbow](https://www.media.mit.edu/projects/measurement-of-violin-bowing-technique/overview/)
@@ -22,6 +24,8 @@ Topic: **Violin**
    * Measures the movement and pressure of a violinist's bow
    * Can record and analyze this information while a violinist performs
    * Helps researchers understand how different bowing techniques affect the sound of a violin
+   * Specialized wireless sensors
+   * Hardware: Windows/macOS (computer required)
     
 
 ##### Hardware
