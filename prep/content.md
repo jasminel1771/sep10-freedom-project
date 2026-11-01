@@ -9,7 +9,7 @@ Topic: **Violin**
 
 ##### Software
 * Google Search: "Technology used by professional violinists"
-* 1st website: [SmartViolin](https://music.lab.vcu.edu/projects/smartviolin/)
+* 1st app: [SmartViolin](https://music.lab.vcu.edu/projects/smartviolin/)
   * Explores how technology can help violinists improve their playing techniques
   * Investigates the use of small electronic sensors and cameras to track a violinist's bow movements
   * The technology can measure bow position, speed, acceleration, and angles
@@ -18,7 +18,7 @@ Topic: **Violin**
   * Hardware: Windows/macOS (computer required)
   * [SmartViolin IMG](https://music.lab.vcu.edu/media/music-lab-2022/projects/smartviolin/smartviolon1.png)
     
- * 2nd Website: [Hyperbow](https://www.media.mit.edu/projects/measurement-of-violin-bowing-technique/overview/)
+ * 2nd app: [Hyperbow](https://www.media.mit.edu/projects/measurement-of-violin-bowing-technique/overview/)
    * Specially designed violin bow sensor that contains electronic sensors
    * The sensors include accelerometers, gyroscopes, and force sensors
    * Measures the movement and pressure of a violinist's bow
@@ -26,9 +26,9 @@ Topic: **Violin**
    * Helps researchers understand how different bowing techniques affect the sound of a violin
    * Specialized wireless sensors
    * Hardware: Windows/macOS (computer required)
-   * [Hyperbow IMG](Hyperbow.png)
+   * [Hyperbow IMG](https://assets.pubpub.org/ngj2vdqf/71643518533385.png?width=800&fit=bounds)
   
- * 3rd website: [Metronaut Sheet Music](https://metronautapp.com/)
+ * 3rd app: [Metronaut Sheet Music](https://metronautapp.com/)
    * Provides interactive digital sheet music
    * Plays professional musical accompaniments while you practice
    * Uses AI feedback to listen to your playing
