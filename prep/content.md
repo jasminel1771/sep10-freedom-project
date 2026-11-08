@@ -47,9 +47,17 @@ Topic: **Violin**
     
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+* [Matter Squared ASR: Smart Violin Shoulder Rest](https://mattersquared.com/products/asr-founders-edition)
+   * Price: Founder's Edition listed at $199, the newer ASR is advertised at $399
+   * This is a special shoulder rest that attaches to a violin
+   * It contains a haptic actuator, which creates vibrations that the violinist can feel
+   * It can send rhythmic vibrations to help musicians practice timing
+   * It can play sounds such as metronome beats and musical notes through the violin
+   * It connects to an app called ASR Studio through Bluetooth
+   * Inputs: Bluetooth connection and app controls
+   * Outputs: Vibrations and sound
+   * Power: Electronic powered device, check the manufacturer's specifications for the exact battery/charging details
+   * [Matter Squared ASR IMG](https://mattersquared.com/cdn/shop/files/Product_Vert_App.jpg?v=1778278709&width=1445)
 
 ## Part B: possible future technology
 * Idea
