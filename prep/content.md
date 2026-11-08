@@ -9,24 +9,30 @@ Topic: **Violin**
 
 ##### Software
 * Google Search: "Technology used by professional violinists"
-* 1st app: [SmartViolin](https://music.lab.vcu.edu/projects/smartviolin/)
-  * Explores how technology can help violinists improve their playing techniques
-  * Investigates the use of small electronic sensors and cameras to track a violinist's bow movements
-  * The technology can measure bow position, speed, acceleration, and angles
-  * Could help violinists understand their mistakes and improve their technique
-  * Specialized sensors and camera equipment
-  * Hardware: Windows/macOS (computer required)
-  * [SmartViolin IMG](https://music.lab.vcu.edu/media/music-lab-2022/projects/smartviolin/smartviolon1.png)
+* 1st app: [Trebella](https://trebel.la/)
+  * Designed for intermediate and advanced classical musicians
+  * Allows users to upload pictures or PDFs of their sheet music
+  * Creates personalized practice sessions based on the selected piece
+  * Provides feedback about intonation, rhythm, and dynamics
+  * Creates warm-up exercises based on the music
+  * Adjusts practice sessions depending on which sections need improvement
+  * Supports violin, cello, piano, flute, and other instruments
+  * Inputs: Microphone and uploaded sheet music
+  * Outputs: Practice plans and real-time feedback
+  * Hardware: Smartphone, tablet, or compute to access the app/website
+  * [Trebella IMG](https://trebel.la/images/logo-d7ad948ca20a0d5f29e42de2d003bbbd.png?vsn=d)
     
- * 2nd app: [Hyperbow](https://www.media.mit.edu/projects/measurement-of-violin-bowing-technique/overview/)
-   * Specially designed violin bow sensor that contains electronic sensors
-   * The sensors include accelerometers, gyroscopes, and force sensors
-   * Measures the movement and pressure of a violinist's bow
-   * Can record and analyze this information while a violinist performs
-   * Helps researchers understand how different bowing techniques affect the sound of a violin
-   * Specialized wireless sensors
-   * Hardware: Windows/macOS (computer required)
-   * [Hyperbo](https://assets.pubpub.org/ngj2vdqf/71643518533385.png?width=800&fit=bounds)
+ * 2nd app: [SkyNote](https://appskynote.com/landing)
+   * Designed to help violinists improve their playing technique
+   * Analyzes violin sound in real time
+   * Provides feedback about pitch and rhythm
+   * Evaluates tone quality and dynamics
+   * Can analyze bow speed, tilt, and direction
+   * Can display feedback directly on the musical sheet music
+   * Inputs: Microphone, camera, and motion-tracking sensors
+   * Outputs: Visual feedback, pitch information, and performance analysis
+   * Hardware: Computer, microphone, camera, and optional motion-tracking equipment
+   * [SkyNote IMG](https://telmi.upf.edu/wp-content/uploads/2019/02/VRT.png)
   
  * 3rd app: [Metronaut Sheet Music](https://metronautapp.com/)
    * Provides interactive digital sheet music
@@ -34,6 +40,8 @@ Topic: **Violin**
    * Uses AI feedback to listen to your playing
    * Includes a built-in tuner and metronome
    * Supports violin and other instruments
+   * Inputs: Device microphone to listen to the violinist playing
+   * Outputs: Digital sheet music displayed on the screen
    * Hardware: Smartphone, tablet, or computer
    * [Metronaut IMG](https://www.selmer.fr/cdn/shop/articles/NL_Metronaut_1_030884fa-90fc-4ce3-84d8-4d6743b18853.png?v=1750864793)
     
