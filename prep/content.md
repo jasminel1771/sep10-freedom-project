@@ -26,7 +26,7 @@ Topic: **Violin**
    * Helps researchers understand how different bowing techniques affect the sound of a violin
    * Specialized wireless sensors
    * Hardware: Windows/macOS (computer required)
-   * [Hyperbow IMG](https://assets.pubpub.org/ngj2vdqf/71643518533385.png?width=800&fit=bounds)
+   * [Hyperbo](https://assets.pubpub.org/ngj2vdqf/71643518533385.png?width=800&fit=bounds)
   
  * 3rd app: [Metronaut Sheet Music](https://metronautapp.com/)
    * Provides interactive digital sheet music
