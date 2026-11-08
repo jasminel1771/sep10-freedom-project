@@ -47,6 +47,7 @@ Topic: **Violin**
     
 
 ##### Hardware
+* Google Search: Unusual electronic gadgets for violinists
 * [Matter Squared ASR: Smart Violin Shoulder Rest](https://mattersquared.com/products/asr-founders-edition)
    * Price: Founder's Edition listed at $199, the newer ASR is advertised at $399
    * This is a special shoulder rest that attaches to a violin
@@ -58,6 +59,30 @@ Topic: **Violin**
    * Outputs: Vibrations and sound
    * Power: Electronic powered device, check the manufacturer's specifications for the exact battery/charging details
    * [Matter Squared ASR IMG](https://mattersquared.com/cdn/shop/files/Product_Vert_App.jpg?v=1778278709&width=1445)
+ 
+ * [Xvive U9 Wireless Violin System](https://xvive.com/audio/product/u9-violin-wireless-system/)
+   * Price: Approximately $229.99
+   * This system allows violinists to perform without connecting their instrument directly to an amplifier with a long cable
+   * It includes a small microphone that attaches to the violin
+   * The microphone captures the instrument's sound
+   * A transmitter sends the audio wirelessly to a receiver
+   * The receiver connects to an amplifier or sound system
+   * Inputs: Microphone captures the violin's sound
+   * Outputs: Wireless audio signal
+   * Power: Rechargeable electronic transmitter and receiver
+   * [Xvive U9 Wireless Violin System IMG](https://www.adorama.com/images/Large/XVU9.JPG)
+
+  * [Glasser/Voltatron Electric Violin](https://electricviolinshop.com/products/volta-glassertron-glv-aex4-white-4-string-carbon-composite-hybrid-electric-violin-with-leds?srsltid=AYCX9vLS5yL94qqSHRG3lP_s8gHqfnHSj2N4bmRiRSebRyy5ZQ8iDbkB)
+    * Price: Approximately $2,550 for the four-stringed model
+    * This is an electric violin with an integrated speaker system
+    * It has built-in speakers instead of requiring an external speaker for every use
+    * It includes electronic sound effects
+    * It has integrated reverb, which changes the sound to create an echo-life effect
+    * It uses a rechargeable battery
+    * Inputs: Physical controls for electronic sound features
+    * Outputs: Built-in speakers and amplified sound
+    * Power: Rechargeable battery
+    * [Glasser/Voltatron Electric Violin IMG](https://electricviolinshop.com/products/volta-glassertron-glv-aex4-white-4-string-carbon-composite-hybrid-electric-violin-with-leds?srsltid=AYCX9vJdkTwyaLcYOAj7IryTjsXo0yLfyapQRW1zDqUGVITmri0ymsEy)
 
 ## Part B: possible future technology
 * Idea
