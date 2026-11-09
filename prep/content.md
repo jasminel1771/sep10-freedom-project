@@ -2,7 +2,7 @@
 Topic: **Violin**
 
 ## Overview/Introduction/Context
-* The violin is a string instrument that is known for its high-pitched sound and ability to produce a wide range of musical tones. A violin has four strings, which are tuned to G, D, A, and E. It is played by moving a bow across the strings while pressing them down with the fingers to create different notes.
+* The violin is a string instrument that is known for its high-pitched sound and ability to produce a wide range of musical tones. A violin has four strings, which are tuned to G, D, A, and E. It is played by moving a bow across the strings while pressing them down with fingers to create different notes.
 * Technology has changed how violinists practice and perform through tools such as digital tuners, metronomes, recording software, and electric violins, which help musicians improve their skills and experiment with different sounds.
 
 ## Part A: existing technology
@@ -24,7 +24,7 @@ Topic: **Violin**
     
  * 2nd app: [SkyNote](https://appskynote.com/landing)
    * Designed to help violinists improve their playing technique
-   * Analyzes violin sound in real time
+   * Analyzes violin sound in real-time
    * Provides feedback about pitch and rhythm
    * Evaluates tone quality and dynamics
    * Can analyze bow speed, tilt, and direction
