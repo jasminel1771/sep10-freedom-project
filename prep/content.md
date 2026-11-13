@@ -24,9 +24,9 @@ Topic: **Violin**
 #### Most Complex
  * Advanced violin technology
  * Technologies looked into: [SkyNote](https://appskynote.com/landing) & [Glasser/Voltatron Electric Violin](https://electricviolinshop.com/products/volta-glassertron-glv-aex4-white-4-string-carbon-composite-hybrid-electric-violin-with-leds?srsltid=AYCX9vLS5yL94qqSHRG3lP_s8gHqfnHSj2N4bmRiRSebRyy5ZQ8iDbkB)
- * Findings: These technologies combine multiple electronic and digital components to improve musical performance. SkyNote analyzes violin sounds and movements to provide feedback about pitch, rhythm, and bowing technique. The Glasses/Voltatron is an electric violin with built-in speakers and electronic sound features. These technologies combine hardware and software to create more advanced ways to practice, analyze, and perform music.
- * [SkyNote IMG](https://telmi.upf.edu/wp-content/uploads/2019/02/VRT.png)
- * [Glasser/Voltatron Electric Violin IMG](https://electricviolinshop.com/products/volta-glassertron-glv-aex4-white-4-string-carbon-composite-hybrid-electric-violin-with-leds?srsltid=AYCX9vJdkTwyaLcYOAj7IryTjsXo0yLfyapQRW1zDqUGVITmri0ymsEy)
+  * Findings: These technologies combine multiple electronic and digital components to improve musical performance. SkyNote analyzes violin sounds and movements to provide feedback about pitch, rhythm, and bowing technique. The Glasses/Voltatron is an electric violin with built-in speakers and electronic sound features. These technologies combine hardware and software to create more advanced ways to practice, analyze, and perform music.
+  * [SkyNote IMG](https://telmi.upf.edu/wp-content/uploads/2019/02/VRT.png)
+  * [Glasser/Voltatron Electric Violin IMG](https://electricviolinshop.com/products/volta-glassertron-glv-aex4-white-4-string-carbon-composite-hybrid-electric-violin-with-leds?srsltid=AYCX9vJdkTwyaLcYOAj7IryTjsXo0yLfyapQRW1zDqUGVITmri0ymsEy)
 
 
 
