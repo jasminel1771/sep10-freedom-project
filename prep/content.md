@@ -7,7 +7,7 @@ Topic: **Violin**
 
 ## Part A: existing technology
 
-##### Software
+##### Categories
 * Google Search: "Technology used by professional violinists"
 * 1st app: [Trebella](https://trebel.la/)
   * Designed for intermediate and advanced classical musicians
