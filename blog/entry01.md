@@ -19,7 +19,7 @@ Some questions that I have:
 Some skills I have learned and developed are __time management and how to read.__
 
 ### Time management
-I have learned how to organize my time and prioritize my assignments so I can complete my work before deadlines by starting on my homework as soon as I get home instead of procrastinating and wasting my time on things that don't need immediate attention. This skill will help me manage my research and make sure I have enough time to complete each step of the EDP.
+I have learned how to organize my time and prioritize my assignments so I can complete my work before deadlines by starting on my homework as soon as I get home instead of procrastinating and wasting my time on things that don't require immediate attention. This skill will help me manage my research and make sure I have enough time to complete each step of the EDP.
 
 ### How to Read
 I am working on improving my ability to read articles carefully and identify important information that connects to my topic. Instead of only reading the general information, I need to pay attention to the author's main idea, supporting evidence, and specific details. This will help me find reliable articles about playing the violin and understand how technology is used in music.
