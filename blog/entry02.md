@@ -1,5 +1,5 @@
-# Entry 2
-##### X/X/XX
+# Entry 2: Research & Synthesize
+##### 11/17/26
 
 Text
 
