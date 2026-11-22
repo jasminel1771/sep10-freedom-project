@@ -19,7 +19,7 @@ After collecting my examples, I had to decide how to organize them beyond simply
 ##### This is how I organized my findings:
 1. **Least Complex: Violin Software & Apps**
 * Trebella
-* Mteronaut Sheet Music
+* Metronaut Sheet Music
 
 2. **Mildly Complex: Violin Hardware & Gadgets**
 * Matter Squared ASR Smart Violin Shoulder Rest
@@ -29,6 +29,8 @@ After collecting my examples, I had to decide how to organize them beyond simply
 * VAIolin
 * Glasser/Voltatron Electric Violin
 
+## Sources 
+Findings the technologies was only one part of my research. I also needed to understand how each invention actually worked. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
