@@ -16,6 +16,18 @@ For my final category, I wanted to investigate technologies that involved more c
 #### How I synthesized my Research
 After collecting my examples, I had to decide how to organize them beyond simply separating software from hardware. I wanted my categories to explain the differences between the inventions rather than just describe what type of device they were. One organization method I considered was grouping everything by its purpose. For example, I could have separated the technologies into practice, performance, and technique improvement. However, I noticed that some inventions could belong to more than one group. Trebella, for instance, helps with practicing while also providing feedback about technique. This would make the categories overlap. Another possibility was organizing everything according to the technology each invention uses. I could have separated them into categories such as microphones, wireless communication, artificial intelligence, and electronic components. However, this would make it harder to compare inventions that use several different technologies at once. I eventually decided to arrange my research according to complexity. I chose this because the examples I found varied significantly in how they operated and the technology involved. It allowed me to move from applications with more straightforward functions to systems that combine multiple advanced technologies.
 
+##### This is how I organized my findings:
+1. **Least Complex: Violin Software & Apps**
+* Trebella
+* Mteronaut Sheet Music
+
+2. **Mildly Complex: Violin Hardware & Gadgets**
+* Matter Squared ASR Smart Violin Shoulder Rest
+* Xvive U9 Wireless Violin System
+   
+3. **Most Complex: Advanced Violin Technology**
+* VAIolin
+* Glasser/Voltatron Electric Violin
 
 
 [Previous](entry01.md) | [Next](entry03.md)
