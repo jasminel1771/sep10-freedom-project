@@ -5,7 +5,7 @@ Topic: **Violin**
 * The violin is a string instrument that is known for its high-pitched sound and ability to produce a wide range of musical tones. A violin has four strings, which are tuned to G, D, A, and E. It is played by moving a bow across the strings while pressing them down with fingers to create different notes.
 * Technology has changed how violinists practice and perform through tools such as digital tuners, metronomes, recording software, and electric violins, which help musicians improve their skills and experiment with different sounds.
 
-## Part A: existing technology
+## Part A: Existing technology
 ### Categories
 #### Least Complex
 * Violin software and apps
@@ -32,6 +32,6 @@ Topic: **Violin**
 
 
 
-## Part B: possible future technology
+## Part B: Possible future technology
 * Idea
   * Detail
