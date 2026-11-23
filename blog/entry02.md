@@ -36,11 +36,13 @@ Findings the technologies was only one part of my research. I also needed to und
 I am currently working on the research stage of the Engineering Design Process. Since my chosen topic is playing the violin, I explored inventions that already help musicians with different aspects of playing. My research covered applications, electronic gadgets, and more advanced systems that combine different areas of technology. My next stage will be brainstorming possible solutions and thinking about new technologies that could benefit violinists.
 
 ## Skills
-Throughout this project, I worked on improving my _organization and time management skills._ Both were important because I had to research multiple technologies, keep track of information from different sources, and make sure I stayed on task.
+Throughout this project, I worked on improving my _organization and how to google_ skill. Both skills helped me find useful information and keep track of the technologies I discovered.
 
 #### Organizing
 One skill I practiced was organizing information in a clear and useful way. Since I found several different types of violin technology, I needed a system that would make my research easier to understand. I decided to separate the inventions into three categories based on their complexity: software and apps, hardware and gadgets, and advanced technology. I also kept track of the links and information connected to each invention so I could find them again when needed. This helped me avoid mixing up details and made it easier to compare the technologies. I learned that organizing research is not just about keep information together, but also about arranging it in a way that makes the connections between different topics easier to understand. 
 
+#### How to Google
+Another skill I developed was learning how to use Google more effectively. At first, searching for general terms like "violin technology" gave me broad results that did not always include the specific inventions I wanted to find. I learned to make my searches more detailed by including words related to the type of technology I was looking for. For example, searching for "violin practice apps," and "AI violin technology" helped me find more specific results. I also learned to look beyond the first search results and check different websites to understand whether the information was useful and relevant. This helped me discover technologies I might not have found with broader searches. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
