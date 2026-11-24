@@ -46,6 +46,7 @@ Another skill I developed was learning how to use Google more effectively. At fi
 
 ## Next Steps
 My next step is to brainstorm possible inventions that could help violinists with practicing or performing. I will use my research to come up with an original idea!
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
