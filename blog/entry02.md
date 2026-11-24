@@ -44,6 +44,8 @@ One skill I practiced was organizing information in a clear and useful way. Sinc
 #### How to Google
 Another skill I developed was learning how to use Google more effectively. At first, searching for general terms like "violin technology" gave me broad results that did not always include the specific inventions I wanted to find. I learned to make my searches more detailed by including words related to the type of technology I was looking for. For example, searching for "violin practice apps," and "AI violin technology" helped me find more specific results. I also learned to look beyond the first search results and check different websites to understand whether the information was useful and relevant. This helped me discover technologies I might not have found with broader searches. 
 
+## Next Steps
+My next step is to brainstorm possible inventions that could help violinists with practicing or performing. I will use my research to come up with an original idea!
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
